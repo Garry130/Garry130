@@ -1,4 +1,4 @@
-## Hola 👋 mi nombre Edgar
+## Hola 👋 mi nombre es Edgar
 > ### :mortar_board: Licenciado en Informatica Administrativa
 --- 
 > :computer: Soy Desarrollador Front End  jr 	
