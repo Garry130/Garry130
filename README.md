@@ -18,4 +18,9 @@ Me espacializo en el diseño y programación de sitios web, me gusta colaborar y
 
 ### :file_folder: Proyectos
   * Encriptador de Texto
-     * ![Encriptador](/imagenes/encriptador.png)
+<p>    <a href="https://garry130.github.io/encirptador-alura/" ><img src="/imagenes/encriptador.png" alt="imagen proyecto alura" width="200px" height=""></a></p>
+
+<!-- [![Encriptador](/imagenes/encriptador.png)](https://garry130.github.io/encirptador-alura/) -->
+
+### Contacto
+   * email: edgarmel@95gmail.com
