@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hola 👋 mi nombre Edgar
+> ### :mortar_board: Licenciado en Informatica Administrativa
+--- 
+> :computer: Soy Desarrollador Front End  jr 	
 
-<!--
-**Garry130/Garry130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me espacializo en el diseño y programación de sitios web, me gusta colaborar y trabajar en equipo, compartir conocimientos y mantener un parendizaje constante.
 
-Here are some ideas to get you started:
+### :bookmark_tabs: Lenguajes de Programación
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  * javaScript
+  * HTML 5
+  * CSS 3
+
+### :wrench: Herramientas
+
+  * Visual Code
+  * git
+
+### :file_folder: Proyectos
+  * Encriptador de Texto
+     * ![Encriptador](/imagenes/encriptador.png)
