@@ -7,7 +7,7 @@ Me espacializo en el diseño y programación de sitios web, me gusta colaborar y
 
 ### :bookmark_tabs: Lenguajes de Programación
 
-  * javaScript
+  * JavaScript
   * HTML 5
   * CSS 3
 
@@ -22,5 +22,5 @@ Me espacializo en el diseño y programación de sitios web, me gusta colaborar y
 
 <!-- [![Encriptador](/imagenes/encriptador.png)](https://garry130.github.io/encirptador-alura/) -->
 
-### Contacto
+### :email: Contacto
    * email: edgarmel@95gmail.com
