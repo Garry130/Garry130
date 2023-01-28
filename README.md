@@ -10,6 +10,8 @@ Me espacializo en el diseño y programación de sitios web, me gusta colaborar y
   * JavaScript
   * HTML 5
   * CSS 3
+  * PHP
+  * MySQL
 
 ### :wrench: Herramientas
 
